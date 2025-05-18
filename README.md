@@ -13,7 +13,7 @@ As part of my open-source journey, I’ve contributed 24+ PRs across major OWASP
 
 This journey has taught me consistency, collaboration, and the true spirit of the open-source community.
 
-I’m always open to learning, connecting, and building something meaningful together.
+I’m always open to learning, connecting, and building something meaningful together
 
 How to reach me you can reach me out on LinkedIn, here's the link https://www.linkedin.com/in/naman-kumar-650b22264
 
